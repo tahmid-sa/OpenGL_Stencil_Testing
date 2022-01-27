@@ -1,0 +1,13 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(183,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(241,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(309,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(310,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(314,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(315,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(317,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(318,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\OpenGLWindow\window_main.cpp(327,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Stencil Testing\x64\Debug\OpenGLWindow.exe
